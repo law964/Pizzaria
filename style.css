@@ -13,7 +13,9 @@
 
 body {
     background-color: rgba(189, 45, 5, 0.815);
+    max-width: 100%;
 }
+
 .imagem {
     
     background-image: url(images/pexels.jpg);
@@ -64,8 +66,6 @@ body {
     height: 300px;
     position: absolute;
     border-radius: 30px;
-    width: 100%;
-
 }
 
 .submenu:hover .caixabranca{
